@@ -1,4 +1,4 @@
-const carrito = validarStorageCarrito();
+/*const carrito = validarStorageCarrito();
 
 function validarStorageCarrito(){
     if(localStorage.getItem("carrito") != null){
@@ -9,5 +9,5 @@ function validarStorageCarrito(){
     }
 }
 
-document.getElementById("cantidad-seleccionado").innerHTML = carrito.length;
+document.getElementById("cantidad-seleccionado").innerHTML = carrito.length;*/
 
